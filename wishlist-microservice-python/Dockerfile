@@ -1,5 +1,4 @@
 FROM python:3
-MAINTAINER sarat.e99@gmail.com Sarat Chandra E
 
 COPY . .
 

@@ -1,5 +1,4 @@
 FROM node:14
-MAINTAINER sarat.e99@gmail.com Sarat Chandra E
 
 WORKDIR /app
 COPY . .
